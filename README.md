@@ -1,1 +1,5 @@
-# AI-blog-generator
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
